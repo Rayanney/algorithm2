@@ -1,0 +1,12 @@
+// lets have an array for insertion sort  
+//first iteration comapare both 18 and 25 and place 18 at the first place
+//second iteration comapare 21and 25 21 is less than 25 then bring it before 25
+//third iteration 92 is greater than 25 so will remain in that position
+//fourth iteration compare 92 and 46 ,46 is less than 92 so it will come before 92
+const array1=[25,18,21,92,46]
+resultOne=[18,25,21,92,46]
+resultTwo =[18,21,25,92,46]
+result three=[18,21,25,92,46]
+final result =[18,21,25,46,92]
+
+
